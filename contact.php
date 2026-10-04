@@ -3,7 +3,7 @@
 <main>
     <section class="page-hero relative overflow-hidden border-b border-white/10">
         <div class="absolute hero-orb left-1/2 top-10 -translate-x-1/2"></div>
-        <div class="relative mx-auto w-full max-w-7xl px-5 pt-28 sm:px-8">
+        <div class="relative mx-auto w-full max-w-7xl px-5 pt-20 sm:px-8">
             <p class="reveal font-mono text-xs uppercase tracking-widest text-sky-300">
                 Contact
             </p>

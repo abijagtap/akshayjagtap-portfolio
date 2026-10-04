@@ -3,16 +3,15 @@
 <main>
     <section class="page-hero relative overflow-hidden border-b border-white/10">
         <div class="absolute hero-orb -right-24 top-16"></div>
-        <div class="relative mx-auto w-full max-w-7xl px-5 pt-28 sm:px-8">
+        <div class="relative mx-auto w-full max-w-7xl px-5 pt-20 sm:px-8">
             <p class="reveal font-mono text-xs uppercase tracking-widest text-sky-300">
-                Portfolio
+                My Work
             </p>
             <h1 class="reveal delay-1 display mt-4 max-w-4xl text-5xl font-semibold tracking-[-.04em] sm:text-7xl">
-                Selected <span class="gradient-text">work.</span>
+                Projects <span class="gradient-text">worth talking about.</span>
             </h1>
             <p class="reveal delay-2 mt-6 max-w-2xl text-base leading-7 text-zinc-500">
-                A flexible project grid. Replace thumbnails, titles, technologies,
-                descriptions and links directly in this file.
+                This is the list of all my projects that I have worked on. Each project has a short description, the tech stack used, and a link to the live site or code repository.
             </p>
         </div>
     </section>

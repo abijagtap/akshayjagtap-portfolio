@@ -4,7 +4,7 @@
 
 <section class="page-hero relative overflow-hidden border-b border-white/10">
         <div class="absolute hero-orb -left-24 top-16"></div>
-        <div class="relative mx-auto w-full max-w-7xl px-5 pt-28 sm:px-8">
+        <div class="relative mx-auto w-full max-w-7xl px-5 pt-20 sm:px-8">
             <p class="reveal font-mono text-xs uppercase tracking-widest text-sky-300">
                 Site Under Development
             </p>
@@ -20,7 +20,7 @@
             class="mx-auto grid min-h-screen max-w-7xl items-center gap-14 px-5 pb-16 pt-28 sm:px-8 lg:grid-cols-[1.05fr_.95fr]">
             <div class="max-w-3xl">
                 <p class="reveal font-mono text-xs uppercase tracking-[.18em] text-sky-300">
-                    Software Developer · Thane
+                    Full Stack Developer · Thane
                 </p>
                 <h1
                     class="reveal delay-1 display mt-5 max-w-4xl text-5xl font-semibold leading-[1.02] tracking-[-.045em] sm:text-7xl lg:text-[5.8rem]">
@@ -88,23 +88,19 @@
                         </div>
                     </div>
                     <div class="stack-list mt-4 flex flex-wrap gap-2">
-                        <div
-                            class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
+                        <div class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
                             <strong class="font-medium text-sky-300">Backend</strong>
                             <span>PHP / APIs</span>
                         </div>
-                        <div
-                            class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
+                        <div class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
                             <strong class="font-medium text-sky-300">Frontend</strong>
                             <span>HTML / JS</span>
                         </div>
-                        <div
-                            class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
+                        <div class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
                             <strong class="font-medium text-sky-300">Data</strong>
                             <span>SQL / NoSQL</span>
                         </div>
-                        <div
-                            class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
+                        <div class="stack-item inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-2.5 py-1.5 text-[11px] text-zinc-300">
                             <strong class="font-medium text-sky-300">Delivery</strong>
                             <span>Git / Linux</span>
                         </div>
@@ -118,24 +114,23 @@
         <div class="mx-auto grid max-w-7xl gap-px bg-[#252b34] sm:grid-cols-3">
             <div class="bg-[#0b0d10] p-8 sm:p-10">
                 <p class="font-mono text-xs text-zinc-600">01</p>
-                <p class="mt-7 display text-xl font-semibold">Web Development</p>
+                <p class="mt-7 display text-xl font-semibold">Backend & APIs</p>
                 <p class="mt-2 text-sm leading-6 text-zinc-500">
-                    Replace with the type of web applications and interfaces you
-                    actually build.
+                    Building website Backend, APIs using PHP frameworks, MySQL and MongoDB for seamless data management and integration.
                 </p>
             </div>
             <div class="bg-[#0b0d10] p-8 sm:p-10">
                 <p class="font-mono text-xs text-zinc-600">02</p>
-                <p class="mt-7 display text-xl font-semibold">Backend & APIs</p>
+                <p class="mt-7 display text-xl font-semibold">Frontend</p>
                 <p class="mt-2 text-sm leading-6 text-zinc-500">
-                    Replace with your backend, database and integration strengths.
+                    Crafting pixel-perfect, responsive interfaces that leave a lasting impression of your website. Creating intuitive user experiences. 
                 </p>
             </div>
             <div class="bg-[#0b0d10] p-8 sm:p-10">
                 <p class="font-mono text-xs text-zinc-600">03</p>
-                <p class="mt-7 display text-xl font-semibold">Problem Solving</p>
+                <p class="mt-7 display text-xl font-semibold">Integrations</p>
                 <p class="mt-2 text-sm leading-6 text-zinc-500">
-                    Use this space for the engineering problems you like working on.
+                    Integrating third-party services and APIs to enhance functionality and streamline processes, ensuring a smooth user experience.
                 </p>
             </div>
         </div>
@@ -145,7 +140,7 @@
         <div class="reveal flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
             <div>
                 <p class="font-mono text-xs uppercase tracking-widest text-sky-300">
-                    Selected work
+                    My work
                 </p>
                 <h2 class="display mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
                     Projects worth talking about.
@@ -201,13 +196,11 @@
                         Engineering approach
                     </p>
                     <h2 class="display mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
-                        Show the work, not the buzzwords.
+                        My development principles.
                     </h2>
                 </div>
                 <p class="max-w-2xl text-sm leading-7 text-zinc-500">
-                    Use this section for a few honest principles: how you approach
-                    requirements, debugging, APIs, databases, performance, testing,
-                    deployment, or maintenance.
+                    My principles and how I approach the development process: Understand the problem first, build a practical solution, test the edge cases that matter, and leave the code understandable for the next change.
                 </p>
             </div>
             <div class="mt-10 grid gap-px bg-[#252b34] sm:grid-cols-2 lg:grid-cols-4">
@@ -254,7 +247,7 @@
                     Let's build something useful.
                 </h2>
                 <p class="mt-3 max-w-xl text-sm leading-6 text-zinc-500">
-                    Replace this with your preferred contact message.
+                    Have a project in mind, a position to fill, or just want to say hello? Drop me a line! I’m always open to discussing new opportunities, creative ideas, or partnerships. 
                 </p>
             </div>
             <a href="contact.php" class="btn-primary rounded-md px-6 py-3 text-sm font-semibold">Get in touch ↗</a>

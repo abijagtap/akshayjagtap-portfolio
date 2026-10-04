@@ -1,0 +1,1 @@
+Replace this empty placeholder with your real resume PDF. Keep the filename resume.pdf so all Download Resume links continue to work.

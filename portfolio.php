@@ -1,4 +1,4 @@
-<?php require "components/header.php" ?>
+<?php require "include/header.php" ?>
 
 <main>
     <section class="page-hero relative overflow-hidden border-b border-white/10">
@@ -209,4 +209,4 @@
     </section>
 </main>
 
-<?php require "components/footer.php" ?>
+<?php require "include/footer.php" ?>

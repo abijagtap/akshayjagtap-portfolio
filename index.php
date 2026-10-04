@@ -1,4 +1,4 @@
-<?php require "components/header.php" ?>
+<?php require "include/header.php" ?>
 
 <main>
 
@@ -262,4 +262,4 @@
     </section>
 </main>
 
-<?php require "components/footer.php" ?>
+<?php require "include/footer.php" ?>

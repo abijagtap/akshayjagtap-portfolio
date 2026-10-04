@@ -86,7 +86,7 @@
             </div>
         </div>
         <div class="mt-14 flex flex-col gap-3 border-t border-white/10 pt-6 text-md text-zinc-400 sm:flex-row sm:items-center sm:justify-between">
-            <span>© <span data-month></span> <span data-year></span> Akshay Jagtap. All rights reserved.</span><span>Design & Developed by <span class="text-sky-400">Akshay Jagtap.</span>
+            <span>© <span data-month></span> <span data-year></span> Akshay Jagtap. All rights reserved.</span><span>Designed & Developed by <span class="text-sky-400">Akshay Jagtap.</span>
         </div>
     </div>
 </footer>

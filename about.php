@@ -98,7 +98,7 @@
                     <div class="md:text-right md:pr-10">
                         <p class="font-mono text-xs text-sky-300">2024 — PRESENT</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
-                            Senior Software Developer
+                            Software Developer
                         </h3>
                         <p class="mt-1 text-sm text-zinc-500">Company Name</p>
                     </div>
@@ -159,41 +159,55 @@
 
             <div class="relative mt-16">
                 <div class="timeline-line absolute left-4 top-0 h-full w-px md:left-1/2 md:-translate-x-1/2"></div>
-
                 <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
                     <div class="relative order-2 pl-12 md:order-1 md:pr-10 md:text-right">
-                        <span
-                            class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
+                        <span class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
                         <p class="text-sm leading-7 text-zinc-500">
-                            Degree, specialization and any useful achievement or focus
-                            area.
+                            I've completed my Masters's Degree (M.C.A.) in correspondance mode from Sandip University, Nashik.
                         </p>
                     </div>
                     <div class="order-1 pl-12 md:order-2 md:pl-10">
-                        <p class="font-mono text-xs text-sky-300">2016 — 2019</p>
+                        <p class="font-mono text-xs text-sky-300">2021 — 2023</p>
+                        <h3 class="display mt-2 text-2xl font-semibold">
+                            Masters's Degree
+                        </h3>
+                        <p class="mt-1 text-sm text-zinc-500">
+                            Sandip University, Nashik
+                        </p>
+                    </div>
+                </article>
+                
+                <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
+                    <div class="relative order-2 pl-12 md:order-1 md:pr-10 md:text-right">
+                        <span class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
+                        <p class="text-sm leading-7 text-zinc-500">
+                            I've completed my Bachelor's Degree in Computer Science (B.C.S.) from K.A.A.N.M.S College, Satana.
+                        </p>
+                    </div>
+                    <div class="order-1 pl-12 md:order-2 md:pl-10">
+                        <p class="font-mono text-xs text-sky-300">2012 — 2016</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
                             Bachelor's Degree
                         </h3>
                         <p class="mt-1 text-sm text-zinc-500">
-                            University / College Name
+                            K.A.A.N.M.S College, Satana
                         </p>
                     </div>
                 </article>
 
                 <article class="reveal relative grid gap-8 md:grid-cols-2 md:gap-20">
                     <div class="relative order-2 pl-12 md:order-1 md:pr-10 md:text-right">
-                        <span
-                            class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
+                        <span class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
                         <p class="text-sm leading-7 text-zinc-500">
-                            Add your earlier academic qualification or certification here.
+                            I studied 11<sup>th</sup> and 12<sup>th</sup> science in PCMB group at Janata Vidyalaya Junior College, Abhona.
                         </p>
                     </div>
                     <div class="order-1 pl-12 md:order-2 md:pl-10">
-                        <p class="font-mono text-xs text-sky-300">2014 — 2016</p>
+                        <p class="font-mono text-xs text-sky-300">2011 — 2012</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
                             Higher Secondary
                         </h3>
-                        <p class="mt-1 text-sm text-zinc-500">Institution Name</p>
+                        <p class="mt-1 text-sm text-zinc-500">Janata Vidyalaya Junior College, Abhona</p>
                     </div>
                 </article>
             </div>
@@ -216,10 +230,11 @@
                 <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">CakePHP</span>
                 <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">MySQL</span>
                 <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">MongoDB</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">REST APIs</span>
                 <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">Shopify Liquid</span>
                 <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">JavaScript</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">HTML/CSS</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">REST APIs</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">HTML</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">CSS</span>
             </div>
         </div>
     </section>

@@ -4,7 +4,7 @@
     <section class="page-hero relative overflow-hidden border-b border-white/10">
         <div class="absolute hero-orb -right-24 top-16"></div>
         <div class="relative mx-auto w-full max-w-7xl px-5 pt-20 sm:px-8">
-            <p class="reveal font-mono text-xs uppercase tracking-widest text-sky-300">
+            <p class="reveal text-sm uppercase tracking-widest text-sky-300">
                 My Work
             </p>
             <h1 class="reveal delay-1 display mt-4 max-w-4xl text-5xl font-semibold tracking-[-.04em] sm:text-7xl">
@@ -35,7 +35,7 @@
                     <h2 class="mt-3 display text-2xl font-semibold">
                         Order Management System
                     </h2>
-                    <p class="mt-2 text-sm leading-6 text-zinc-500">
+                    <p class="mt-2 text-md leading-6 text-zinc-500">
                         Built around complex order, inventory and marketplace workflows.
                     </p>
                     <div class="mt-5 flex flex-wrap gap-2">
@@ -45,7 +45,7 @@
                             class="rounded-full bg-white/[.04] px-2.5 py-1 text-[10px] text-zinc-500">MongoDB</span>
                     </div>
                     <a href="#"
-                        class="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-zinc-200 hover:text-sky-300">View
+                        class="mt-6 inline-flex items-center gap-2 text-md font-semibold text-zinc-200 hover:text-sky-300">View
                         project <span>↗</span></a>
                 </div>
             </article>
@@ -66,7 +66,7 @@
                     <h2 class="mt-3 display text-2xl font-semibold">
                         Project Management Platform
                     </h2>
-                    <p class="mt-2 text-sm leading-6 text-zinc-500">
+                    <p class="mt-2 text-md leading-6 text-zinc-500">
                         A clean application for managing projects, users and activity.
                     </p>
                     <div class="mt-5 flex flex-wrap gap-2">
@@ -77,7 +77,7 @@
                             class="rounded-full bg-white/[.04] px-2.5 py-1 text-[10px] text-zinc-500">MySQL</span>
                     </div>
                     <a href="#"
-                        class="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-zinc-200 hover:text-sky-300">View
+                        class="mt-6 inline-flex items-center gap-2 text-md font-semibold text-zinc-200 hover:text-sky-300">View
                         project <span>↗</span></a>
                 </div>
             </article>
@@ -98,7 +98,7 @@
                     <h2 class="mt-3 display text-2xl font-semibold">
                         Courier / Shipping Integration
                     </h2>
-                    <p class="mt-2 text-sm leading-6 text-zinc-500">
+                    <p class="mt-2 text-md leading-6 text-zinc-500">
                         API integration for order creation, labels, tracking and events.
                     </p>
                     <div class="mt-5 flex flex-wrap gap-2">
@@ -108,7 +108,7 @@
                             class="rounded-full bg-white/[.04] px-2.5 py-1 text-[10px] text-zinc-500">JSON</span>
                     </div>
                     <a href="#"
-                        class="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-zinc-200 hover:text-sky-300">View
+                        class="mt-6 inline-flex items-center gap-2 text-md font-semibold text-zinc-200 hover:text-sky-300">View
                         project <span>↗</span></a>
                 </div>
             </article>
@@ -129,7 +129,7 @@
                     <h2 class="mt-3 display text-2xl font-semibold">
                         Corporate Website
                     </h2>
-                    <p class="mt-2 text-sm leading-6 text-zinc-500">
+                    <p class="mt-2 text-md leading-6 text-zinc-500">
                         Responsive marketing website with a lightweight static
                         architecture.
                     </p>
@@ -140,7 +140,7 @@
                             class="rounded-full bg-white/[.04] px-2.5 py-1 text-[10px] text-zinc-500">JavaScript</span>
                     </div>
                     <a href="#"
-                        class="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-zinc-200 hover:text-sky-300">View
+                        class="mt-6 inline-flex items-center gap-2 text-md font-semibold text-zinc-200 hover:text-sky-300">View
                         project <span>↗</span></a>
                 </div>
             </article>
@@ -161,7 +161,7 @@
                     <h2 class="mt-3 display text-2xl font-semibold">
                         Analytics Dashboard
                     </h2>
-                    <p class="mt-2 text-sm leading-6 text-zinc-500">
+                    <p class="mt-2 text-md leading-6 text-zinc-500">
                         Data-heavy dashboard with practical filters and reporting.
                     </p>
                     <div class="mt-5 flex flex-wrap gap-2">
@@ -170,7 +170,7 @@
                             class="rounded-full bg-white/[.04] px-2.5 py-1 text-[10px] text-zinc-500">MySQL</span>
                     </div>
                     <a href="#"
-                        class="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-zinc-200 hover:text-sky-300">View
+                        class="mt-6 inline-flex items-center gap-2 text-md font-semibold text-zinc-200 hover:text-sky-300">View
                         project <span>↗</span></a>
                 </div>
             </article>
@@ -191,7 +191,7 @@
                     <h2 class="mt-3 display text-2xl font-semibold">
                         Custom Web Solution
                     </h2>
-                    <p class="mt-2 text-sm leading-6 text-zinc-500">
+                    <p class="mt-2 text-md leading-6 text-zinc-500">
                         A custom web solution tailored around a real business workflow.
                     </p>
                     <div class="mt-5 flex flex-wrap gap-2">
@@ -200,7 +200,7 @@
                             class="rounded-full bg-white/[.04] px-2.5 py-1 text-[10px] text-zinc-500">MySQL</span>
                     </div>
                     <a href="#"
-                        class="mt-6 inline-flex items-center gap-2 text-sm font-semibold text-zinc-200 hover:text-sky-300">View
+                        class="mt-6 inline-flex items-center gap-2 text-md font-semibold text-zinc-200 hover:text-sky-300">View
                         project <span>↗</span></a>
                 </div>
             </article>

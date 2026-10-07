@@ -4,7 +4,7 @@
     <section class="page-hero relative overflow-hidden border-b border-white/10">
         <div class="absolute hero-orb -left-24 top-16"></div>
         <div class="relative mx-auto w-full max-w-7xl px-5 pt-20 sm:px-8">
-            <p class="reveal font-mono text-xs uppercase tracking-widest text-sky-300">
+            <p class="reveal text-sm uppercase tracking-widest text-sky-300">
                 About me
             </p>
             <h1 class="reveal delay-1 display mt-4 max-w-4xl text-5xl font-semibold tracking-[-.04em] sm:text-7xl">
@@ -20,28 +20,28 @@
                 <img src="images/me.png" alt="Akshay Jagtap" class="h-full w-full object-cover" onerror="this.style.display = 'none'" />
             </div>
             <div class="reveal delay-3 mt-8">
-                <a href="resume.pdf" download class="btn-primary inline-flex rounded-full px-6 py-3.5 text-sm font-semibold">Download Resume ↓</a>
+                <a href="resume.pdf" download class="btn-primary inline-flex rounded-full px-6 py-3.5 text-md font-semibold">Download Resume ↓</a>
             </div>
             <div class="reveal delay-3 mt-9 grid gap-3 sm:grid-cols-3">
                 <div class="card rounded-lg p-5">
-                    <p class="font-mono text-xs text-sky-300">FOCUS</p>
+                    <p class="font-mono text-sm text-sky-300">FOCUS</p>
                     <p class="mt-3 font-semibold">Backend</p>
-                    <p class="mt-1 text-xs text-zinc-500">Applications & APIs</p>
+                    <p class="mt-1 text-sm text-zinc-500">Applications & APIs</p>
                 </div>
                 <div class="card rounded-lg p-5">
-                    <p class="font-mono text-xs text-sky-300">FOCUS</p>
+                    <p class="font-mono text-sm text-sky-300">FOCUS</p>
                     <p class="mt-3 font-semibold">Data</p>
-                    <p class="mt-1 text-xs text-zinc-500">SQL & NoSQL</p>
+                    <p class="mt-1 text-sm text-zinc-500">SQL & NoSQL</p>
                 </div>
                 <div class="card rounded-lg p-5">
-                    <p class="font-mono text-xs text-sky-300">FOCUS</p>
+                    <p class="font-mono text-sm text-sky-300">FOCUS</p>
                     <p class="mt-3 font-semibold">Integration</p>
-                    <p class="mt-1 text-xs text-zinc-500">External services</p>
+                    <p class="mt-1 text-sm text-zinc-500">External services</p>
                 </div>
             </div>
         </div>
         <div>
-            <p class="reveal font-mono text-xs text-zinc-600">01 / INTRO</p>
+            <p class="reveal text-sm text-zinc-600">01 / INTRO</p>
             <h2 class="reveal delay-1 display mt-4 text-4xl font-semibold tracking-tight sm:text-5xl">
                 A developer who enjoys the details.
             </h2>
@@ -83,7 +83,7 @@
     <section class="border-y border-white/10">
         <div class="mx-auto max-w-7xl px-5 py-24 sm:px-8 lg:py-32">
             <div class="reveal max-w-2xl">
-                <p class="font-mono text-xs uppercase tracking-widest text-sky-300">
+                <p class="font-mono text-sm uppercase tracking-widest text-sky-300">
                     Experience
                 </p>
                 <h2 class="display mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
@@ -96,60 +96,112 @@
 
                 <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
                     <div class="md:text-right md:pr-10">
-                        <p class="font-mono text-xs text-sky-300">2024 — PRESENT</p>
+                        <p class="font-mono text-sm text-sky-300">12/2025 — PRESENT</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
-                            Software Developer
+                            Full Stack Developer
                         </h3>
-                        <p class="mt-1 text-sm text-zinc-500">Company Name</p>
+                        <p class="mt-1 text-md text-zinc-500">Shyaasu Technology Consultancy Services, Thane</p>
                     </div>
                     <div class="relative pl-12 md:pl-10">
                         <span
                             class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-left-[6px]"></span>
-                        <p class="text-sm leading-7 text-zinc-500">
-                            Describe your responsibilities, systems you worked on,
-                            integrations, architecture and measurable outcomes.
+                        <p class="text-md leading-7 text-zinc-500">
+                            Develop and maintain full-stack e-commerce and logistics solutions and scalable API integrations using PHP, CakePHP, MySQL, MongoDB and REST APIs.
+                            Integrate and manage marketplace and courier platforms and other third-party services into an in-house all-in-one e-commerce ERP software named DMSMatrix. 
                         </p>
                     </div>
                 </article>
 
                 <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
                     <div class="order-2 pl-12 md:order-1 md:text-right md:pr-10">
-                        <p class="font-mono text-xs text-sky-300">2021 — 2024</p>
+                        <p class="font-mono text-sm text-sky-300">06/2024 — 09/2025</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
-                            Software Developer
+                            Full Stack Developer
                         </h3>
-                        <p class="mt-1 text-sm text-zinc-500">Company Name</p>
+                        <p class="mt-1 text-md text-zinc-500">Smartscripts Private Limited, Pune</p>
                     </div>
                     <div class="relative order-1 pl-12 md:order-2 md:pl-10">
                         <span
                             class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-left-[6px]"></span>
-                        <p class="text-sm leading-7 text-zinc-500">
-                            Add the most important work from this role. Keep each timeline
-                            entry concise and outcome-focused.
+                        <p class="text-md leading-7 text-zinc-500">
+                            Develop REST APIs in CodeIgniter 4 for web & mobile apps. Collaborate and lead frontend teams to deliver scalable solutions. 
+                            Maintain backend systems, ensuring high performance and security.
                         </p>
                     </div>
                 </article>
 
-                <article class="reveal relative grid gap-8 pb-4 md:grid-cols-2 md:gap-20">
+                <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
                     <div class="md:text-right md:pr-10">
-                        <p class="font-mono text-xs text-sky-300">2019 — 2021</p>
+                        <p class="font-mono text-sm text-sky-300">03/2023 — 01/2024</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
-                            Web Developer
+                            Shopify Developer
                         </h3>
-                        <p class="mt-1 text-sm text-zinc-500">Company Name</p>
+                        <p class="mt-1 text-md text-zinc-500">Reap Agency (Webezy), UK</p>
                     </div>
                     <div class="relative pl-12 md:pl-10">
                         <span
                             class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-left-[6px]"></span>
-                        <p class="text-sm leading-7 text-zinc-500">
-                            Add your earlier experience, projects and technologies here.
+                        <p class="text-md leading-7 text-zinc-500">
+                            Built and customized Shopify themes using Liquid, JS. Integrated third-party apps and improved store performance. Delivered e-commerce solutions tailored to client needs. 
+                            Developed few projects in Core PHP.
+                        </p>
+                    </div>
+                </article>
+
+                <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
+                    <div class="md:text-right md:pr-10">
+                        <p class="font-mono text-sm text-sky-300">05/2022 — 02/2023</p>
+                        <h3 class="display mt-2 text-2xl font-semibold">
+                            Web Designer and Developer
+                        </h3>
+                        <p class="mt-1 text-md text-zinc-500">Webtrix Solutions Private Limited, Pune</p>
+                    </div>
+                    <div class="relative pl-12 md:pl-10">
+                        <span
+                            class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-left-[6px]"></span>
+                        <p class="text-md leading-7 text-zinc-500">
+                            Developed responsive websites and backend with HTML, CSS, PHP, CodeIgniter, MySQL, and JavaScript. Optimized SEO and performance for client websites
+                        </p>
+                    </div>
+                </article>
+
+                <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
+                    <div class="md:text-right md:pr-10">
+                        <p class="font-mono text-sm text-sky-300">09/2019 — 03/2022</p>
+                        <h3 class="display mt-2 text-2xl font-semibold">
+                            Web Designer and Developer
+                        </h3>
+                        <p class="mt-1 text-md text-zinc-500">Optimize Systems, Nashik</p>
+                    </div>
+                    <div class="relative pl-12 md:pl-10">
+                        <span
+                            class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-left-[6px]"></span>
+                        <p class="text-md leading-7 text-zinc-500">
+                            Developed responsive websites and backend with HTML, CSS, PHP, CodeIgniter, MySQL, and JavaScript. Optimized SEO and performance for client websites
+                        </p>
+                    </div>
+                </article>
+
+                <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
+                    <div class="md:text-right md:pr-10">
+                        <p class="font-mono text-sm text-sky-300">10/2018 — 05/2019</p>
+                        <h3 class="display mt-2 text-2xl font-semibold">
+                            Web Designer and Developer
+                        </h3>
+                        <p class="mt-1 text-md text-zinc-500">WhizzBytes (Crystal Prints), Nashik</p>
+                    </div>
+                    <div class="relative pl-12 md:pl-10">
+                        <span
+                            class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-left-[6px]"></span>
+                        <p class="text-md leading-7 text-zinc-500">
+                            Developed responsive websites and backend with HTML, CSS, PHP, CodeIgniter, MySQL, and JavaScript. Optimized SEO and performance for client websites
                         </p>
                     </div>
                 </article>
             </div>
 
             <div class="reveal mt-24 max-w-2xl ml-auto text-right">
-                <p class="font-mono text-xs uppercase tracking-widest text-sky-300">
+                <p class="font-mono text-sm uppercase tracking-widest text-sky-300">
                     Education
                 </p>
                 <h2 class="display mt-3 text-4xl font-semibold tracking-tight sm:text-5xl">
@@ -162,16 +214,16 @@
                 <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
                     <div class="relative order-2 pl-12 md:order-1 md:pr-10 md:text-right">
                         <span class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
-                        <p class="text-sm leading-7 text-zinc-500">
+                        <p class="text-md leading-7 text-zinc-500">
                             I've completed my Masters's Degree (M.C.A.) in correspondance mode from Sandip University, Nashik.
                         </p>
                     </div>
                     <div class="order-1 pl-12 md:order-2 md:pl-10">
-                        <p class="font-mono text-xs text-sky-300">2021 — 2023</p>
+                        <p class="font-mono text-sm text-sky-300">2021 — 2023</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
                             Masters's Degree
                         </h3>
-                        <p class="mt-1 text-sm text-zinc-500">
+                        <p class="mt-1 text-md text-zinc-500">
                             Sandip University, Nashik
                         </p>
                     </div>
@@ -180,16 +232,16 @@
                 <article class="reveal relative grid gap-8 pb-16 md:grid-cols-2 md:gap-20">
                     <div class="relative order-2 pl-12 md:order-1 md:pr-10 md:text-right">
                         <span class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
-                        <p class="text-sm leading-7 text-zinc-500">
+                        <p class="text-md leading-7 text-zinc-500">
                             I've completed my Bachelor's Degree in Computer Science (B.C.S.) from K.A.A.N.M.S College, Satana.
                         </p>
                     </div>
                     <div class="order-1 pl-12 md:order-2 md:pl-10">
-                        <p class="font-mono text-xs text-sky-300">2012 — 2016</p>
+                        <p class="font-mono text-sm text-sky-300">2012 — 2016</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
                             Bachelor's Degree
                         </h3>
-                        <p class="mt-1 text-sm text-zinc-500">
+                        <p class="mt-1 text-md text-zinc-500">
                             K.A.A.N.M.S College, Satana
                         </p>
                     </div>
@@ -198,16 +250,16 @@
                 <article class="reveal relative grid gap-8 md:grid-cols-2 md:gap-20">
                     <div class="relative order-2 pl-12 md:order-1 md:pr-10 md:text-right">
                         <span class="timeline-dot absolute left-0 top-1.5 h-3 w-3 rounded-full bg-sky-300 md:-right-[6px] md:left-auto"></span>
-                        <p class="text-sm leading-7 text-zinc-500">
+                        <p class="text-md leading-7 text-zinc-500">
                             I studied 11<sup>th</sup> and 12<sup>th</sup> science in PCMB group at Janata Vidyalaya Junior College, Abhona.
                         </p>
                     </div>
                     <div class="order-1 pl-12 md:order-2 md:pl-10">
-                        <p class="font-mono text-xs text-sky-300">2011 — 2012</p>
+                        <p class="font-mono text-sm text-sky-300">2011 — 2012</p>
                         <h3 class="display mt-2 text-2xl font-semibold">
                             Higher Secondary
                         </h3>
-                        <p class="mt-1 text-sm text-zinc-500">Janata Vidyalaya Junior College, Abhona</p>
+                        <p class="mt-1 text-md text-zinc-500">Janata Vidyalaya Junior College, Abhona</p>
                     </div>
                 </article>
             </div>
@@ -217,7 +269,7 @@
     <section class="mx-auto max-w-7xl px-5 py-24 sm:px-8">
         <div class="reveal grid gap-10 md:grid-cols-[.8fr_1.2fr]">
             <div>
-                <p class="font-mono text-xs uppercase tracking-widest text-sky-300">
+                <p class="font-mono text-sm uppercase tracking-widest text-sky-300">
                     Toolkit
                 </p>
                 <h2 class="display mt-3 text-4xl font-semibold">
@@ -225,16 +277,16 @@
                 </h2>
             </div>
             <div class="flex flex-wrap content-start gap-3">
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">PHP</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">CodeIgniter</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">CakePHP</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">MySQL</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">MongoDB</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">REST APIs</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">Shopify Liquid</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">JavaScript</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">HTML</span>
-                <span class="rounded-full border border-white/10 px-4 py-2 text-sm text-zinc-400">CSS</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">PHP</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">CodeIgniter</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">CakePHP</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">MySQL</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">MongoDB</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">REST APIs</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">Shopify Liquid</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">JavaScript</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">HTML</span>
+                <span class="rounded-full border border-white/10 px-4 py-2 text-md text-zinc-400">CSS</span>
             </div>
         </div>
     </section>

@@ -58,24 +58,12 @@
                  <p>
                   I am always eager to learn new technologies and stay up-to-date with the latest trends in web development. I thrive in collaborative environments and enjoy working with cross-functional teams to bring ideas to life.
                 </p>
-                <!-- <p>
-                  If you're looking for a dedicated and skilled developer to bring your ideas to life, feel free to reach out. Let's collaborate and create something amazing together!
-                </p>
-                <p>
-                  In my free time, I enjoy exploring new technologies, contributing to open-source projects, and staying active in the developer community. I believe in continuous learning and growth, and I am always seeking opportunities to expand my skill set and knowledge.
-                </p> -->
                 <p>
                   Thank you for taking the time to learn more about me. I look forward to connecting with you and discussing potential collaborations or opportunities. Let's build something great together!
                 </p>
                 <p>
                   Feel free to check out my portfolio to see some of the projects I've worked on, and don't hesitate to reach out if you have any questions or would like to discuss potential collaborations. I'm always open to new opportunities and challenges!
                 </p>
-                <!-- <p>
-                  What are my skills & expertise?
-                  <br/> ✅ HTML5, CSS3, JavaScript, Bootstrap, jQuery : I have a great experience in these front-end technologies, crafting pixel-perfect, responsive interfaces that leave a lasting impression of your website.
-                  <br/> ✅ PHP, Codeignter, MySQL : I have worked in PHP web development for around 5 years and have a great experience in building website Backend, APIs using Codeigniter framework and MySQL along with the Frontend.
-                  <br/> ✅ Shopify : I have around 1 year of experience in Shopify development from theme customization, app integration, theme development as per the requirement.
-                </p> -->
             </div>
         </div>
     </section>
